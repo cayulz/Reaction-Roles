@@ -1,4 +1,4 @@
-#### Reaction-Roles
+# Reaction-Roles
 
 Today, you will learn how to setup reaction roles for your disord bot. Ok, lets get started.
 
